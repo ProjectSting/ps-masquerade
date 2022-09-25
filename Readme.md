@@ -11,7 +11,7 @@ qb-input - https://github.com/qbcore-framework/qb-input
 
 qb-menu - https://github.com/qbcore-framework/qb-menu
 
-qb-menu - 
+qb-usable-accessories - https://github.com/ProjectSting/qb-usable-accessories
 
 ```
 
